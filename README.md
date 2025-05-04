@@ -1,1 +1,3 @@
-# Nico44S-INGCOM-IC-2025
+. Nombre: Nicolas Savone
+
+. Alias GitHub: Nico44S
